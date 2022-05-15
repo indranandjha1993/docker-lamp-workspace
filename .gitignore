@@ -1,2 +1,2 @@
 www/
-package.json
+redis/cache/*
